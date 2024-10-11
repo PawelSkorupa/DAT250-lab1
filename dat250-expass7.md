@@ -1,4 +1,4 @@
-# DAT250-Lab6 Report
+# DAT250-Lab7 Report
 
 ## Overview
 Objective of assignment: obtain familiarity with Docker.
